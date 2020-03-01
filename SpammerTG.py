@@ -1,8 +1,7 @@
 from telethon.sync import TelegramClient, events
 
-print("""Telegram: @Termuxtop \n
+print("""
 	 	 Telegram: @Termuxtop \n
-		 Telegram: @Termuxtop \n
 		 Telegram: @Termuxtop \n
 		 Telegram: @Termuxtop \n
 	 	 """)
