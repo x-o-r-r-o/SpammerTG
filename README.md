@@ -1,2 +1,7 @@
 # SpammerTG
-Only for education purpose only, not for use! Please :)
+Запускаем и вводим:
+1) Xэш аккаунта
+2) Собственный идентификатор API
+3) Количество сообщений
+4) Id пользователя Telegram
+5) Текст сообщения
